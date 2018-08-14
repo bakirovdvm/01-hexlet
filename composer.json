@@ -1,0 +1,15 @@
+{
+    "name": "ew/01-hexlet",
+    "authors": [
+        {
+            "name": "sbakeer",
+            "email": "bakirovdvm@gmail.com"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^5.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
